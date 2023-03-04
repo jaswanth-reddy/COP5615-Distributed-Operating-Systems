@@ -29,7 +29,7 @@ a.	Title: Distributed Systems: Principles and Paradigms
  	Author: Tanenbaum & Van Steen
 Publication date and edition: 2001 
 ISBN number: 0130888931
-b.	Scala programming language: http:// http://www.scala-lang.org/
+b.	Erlang programming language
 
 Recommended Reading:
 a.	Title: Distributed Operating Systems and Algorithms
