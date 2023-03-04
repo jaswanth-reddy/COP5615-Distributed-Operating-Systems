@@ -1,0 +1,18 @@
+
+ Average Hops = 2.2796   TotalHops = 5699    Count_Nodes = 100    Requested_Number = 25  
+
+ Average Hops = 3.0434666666666668   TotalHops = 22826    Count_Nodes = 300    Requested_Number = 25  
+
+ Average Hops = 3.574   TotalHops = 62545    Count_Nodes = 700    Requested_Number = 25  
+
+ Average Hops = 3.9375333333333336   TotalHops = 118126    Count_Nodes = 1200    Requested_Number = 25  
+
+ Average Hops = 4.172   TotalHops = 156450    Count_Nodes = 1500    Requested_Number = 25  
+
+ Average Hops = 4.3353777777777776   TotalHops = 195092    Count_Nodes = 1800    Requested_Number = 25  
+
+ Average Hops = 4.374313043478261   TotalHops = 251523    Count_Nodes = 2300    Requested_Number = 25  
+
+ Average Hops = 4.773422222222222   TotalHops = 322206    Count_Nodes = 2700    Requested_Number = 25  
+
+ Average Hops = 2.3766666666666665   TotalHops = 713    Count_Nodes = 100    Requested_Number = 3  
